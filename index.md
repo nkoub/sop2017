@@ -31,7 +31,17 @@ For **abstract** or **paper** submission, please refer to the **[Conference Mana
 
 
 ### Program
- TBA
+| Time | Speaker | Title|
+|--------------|----------------|------------------|
+| 14:45 - 15:15 | Philipp Hoevel    | Controlling chimera states by local parameter modification |
+| 15:15 - 15:45 | Giulia Cencetti   | Control of multidimensional systems on complex network |
+| 15:45 - 16:02 | Johanne Hizanidis | Robust chimera states in superconducting metamaterials |
+| 16:02 - 16:19 | Timoteo Carletti  | Desynchronise abnormal neuron behaviour to control epileptic seizures|
+| 16:19 - 16:36 | Julien Petit      | Turing patterns on time-varying networks |
+| 16:36 - 16:46 | Nikos E Kouvaris  | Control of pattern formation in bistable networks |
+| Coffee Break |
+| 17:15 - 17:32 | Alexandre Mauroy | Spectral identification of networks with diffusive coupling |
+| 17:32 - 17:49 | Sarah De Nigris  | Graph spectral characterization of the XY model on complex networks |
  
 
 ### Location (Conference Venue)
